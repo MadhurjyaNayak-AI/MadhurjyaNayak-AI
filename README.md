@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Madhurjya Kumar Nayak — A self taught aspiring Prompt Engineer & Data Scientist
+# I'm Madhurjya Kumar Nayak — A self taught aspiring Prompt Engineer & Data Scientist
 
 Welcome to my GitHub! I'm a seasoned Learning & Development technologist turned AI builder, creating intelligent systems using Large Language Models (LLMs) and end-to-end machine learning workflows.
 
