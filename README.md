@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Hi, I'm Madhurjya Kumar Nayak — A self taught aspiring Prompt Engineer & Data Scientist
 
 Welcome to my GitHub! I'm a seasoned Learning & Development technologist turned AI builder, creating intelligent systems using Large Language Models (LLMs) and end-to-end machine learning workflows.
@@ -59,4 +58,3 @@ My work reflects 5+ years of designing and developing custom AI applications —
 ---
 
 *Take a look around my GitHub to see how I’ve translated real problems into functioning AI systems — combining prompt engineering with machine learning to create measurable impact.*
--->
